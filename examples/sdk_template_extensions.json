@@ -1,0 +1,8 @@
+{
+  "network_configuration": {"networkMode": "public"},
+  "invoke": {"protocol": "HTTP", "port": 49983},
+  "env_vars": {"DEMO_LABEL": "official-sdk-example"},
+  "first_invoke_cmd": ["/bin/sh", "-c", "echo initialized"],
+  "observability": {"logs": {"enableStdLogs": false}},
+  "skip_cache": false
+}

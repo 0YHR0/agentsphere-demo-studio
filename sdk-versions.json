@@ -1,0 +1,9 @@
+{
+  "documentation": "https://support.huaweicloud.com/sdkreference-agentsphere/agentsphere_05_0001.html",
+  "verified_from": "Official SDK documentation read in browser on 2026-11-24 (updated 2026-11-19)",
+  "e2b": "2.42.0",
+  "e2b-code-interpreter": "2.9.1",
+  "agentsphere-e2b-patch": "0.2.0",
+  "patch_url": "https://cci-cn-south-4.obs.cn-south-4.myhuaweicloud.com/agentsphere-e2b-patch/agentsphere_e2b_patch-0.2.0-py3-none-any.whl",
+  "patch_sha256": "dd8cbf5180c77fb7153f07ba616a474978d0f5e7eac5b874bad4f0e0fed009d2"
+}

@@ -1,0 +1,14 @@
+.venv/
+.local/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+dist/
+.pytest_cache/
+vendor/*.whl
+credentials*.csv
+*credentials*.json
+*.pem
+*.key
